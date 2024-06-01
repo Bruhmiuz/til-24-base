@@ -1,1 +1,2 @@
-
+# hear me out...  
+so basically I made some changes to prevent overfitting and stuff, hope someone finds this useful
